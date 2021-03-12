@@ -3,7 +3,7 @@ FILENAME = "file.txt"
 strings = list()
  
 for i in range(3):
-    string = input("Enter " + str(i+1) + " string: ")
+    string = "Hello, world!"
     strings.append(string + "\n")
 
 with open(FILENAME, "a") as file:
