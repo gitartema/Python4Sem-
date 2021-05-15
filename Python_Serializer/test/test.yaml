@@ -1,0 +1,12 @@
+args: {}
+base64: gASVDwAAAAAAAACMBnF3d3dxd5RLDIiHlC4=
+code: []
+dict_class: {}
+name: null
+object: ('qwwwqw', 12, True)
+serializable_by_default: true
+type: tuple
+value: !!python/tuple
+- qwwwqw
+- 12
+- true

@@ -1,0 +1,10 @@
+object = "(1, 2, 3, 4, 5)"
+type = "tuple"
+serializable_by_default = true
+value = [ 1, 2, 3, 4, 5,]
+code = []
+base64 = "gASVDgAAAAAAAAAoSwFLAksDSwRLBXSULg=="
+
+[dict_class]
+
+[args]

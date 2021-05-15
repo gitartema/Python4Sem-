@@ -1,0 +1,4 @@
+Func: example
+Was created
+With this arguments: a, b
+and this kwargs arguments: c:abc

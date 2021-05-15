@@ -1,0 +1,15 @@
+{
+    "object": "('qwwwqw', 12, True)",
+    "type": "tuple",
+    "serializable_by_default": true,
+    "name": null,
+    "value": [
+        "qwwwqw",
+        12,
+        true
+    ],
+    "dict_class": {},
+    "args": {},
+    "code": [],
+    "base64": "gASVDwAAAAAAAACMBnF3d3dxd5RLDIiHlC4="
+}

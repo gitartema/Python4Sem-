@@ -1,0 +1,8 @@
+age: 30
+courses:
+- html
+- css
+- js
+isAdmin: false
+name: John
+wife: null
