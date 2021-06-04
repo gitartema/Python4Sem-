@@ -21,7 +21,10 @@ from django.urls import include
 
 # http://127.0.0.1:8000/   blog/some-title
 
+from .views import redirect_blog
+
 urlpatterns = [
+    path('', redirect_blog),
     path('admin/', admin.site.urls),
     path('blog/', include('blog.urls'))
 ]
