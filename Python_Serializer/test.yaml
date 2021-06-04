@@ -17,7 +17,7 @@ code:
 dict_class: {}
 name: <lambda>
 object: <bound method Objects.<lambda> of <test.arguments_for_test.Objects object
-  at 0x7f790f2a24f0>>
+  at 0x7fdc87d75550>>
 serializable_by_default: false
 type: method
 value: null

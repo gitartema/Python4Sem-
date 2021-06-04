@@ -14,14 +14,14 @@ def serialize(python_object, file_to_serialize):
     deserialize_object = serializer.load(file_to_serialize)
     deserialize_object_from_str = serializer.loads(serialize_str)
 
-    print(serialize_str)
+    #print(serialize_str)
 
-    print(deserialize_object_from_str)
+    #print(deserialize_object_from_str)
     
     #function result
     print(deserialize_object_from_str(1, 2, 3))
 
-    print(deserialize_object)
+    #print(deserialize_object)
     
     #function result
     print(deserialize_object(1, 2, 3))
@@ -33,6 +33,8 @@ def main():
     serialize(object_to_serialize.lambda_function, "test.yaml")
     serialize(object_to_serialize.lambda_function, "test.toml")
     serialize(object_to_serialize.lambda_function, "test.pickle")
+    
+    print('Completed!')
 
 
 if __name__ == "__main__":

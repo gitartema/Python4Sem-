@@ -1,5 +1,5 @@
 {
-    "object": "<bound method Objects.<lambda> of <test.arguments_for_test.Objects object at 0x7f790f2a24f0>>",
+    "object": "<bound method Objects.<lambda> of <test.arguments_for_test.Objects object at 0x7fdc87d75550>>",
     "type": "method",
     "serializable_by_default": false,
     "name": "<lambda>",

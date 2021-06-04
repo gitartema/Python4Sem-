@@ -42,7 +42,6 @@ class PickleSerializer(BaseJsonSerializer):
     def loads(cls, str_to_deserialize):
 
         try:
-            print(type(pickle.loads(str_to_deserialize)))
             return pickle.loads(str_to_deserialize)
         except TypeError:
             return None

@@ -1,6 +1,6 @@
 import argparse
 import json
-import converter
+from Converter import converter
 
 def main():
     convert = get_args()

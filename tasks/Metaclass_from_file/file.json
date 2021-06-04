@@ -1,0 +1,11 @@
+{
+    "object": "{'name': 'Person', 'age': 18, 'func': <function func at 0x7fb091c261f0>}",
+    "type": "dict",
+    "serializable_by_default": false,
+    "name": null,
+    "value": null,
+    "dict_class": {},
+    "args": {},
+    "code": [],
+    "base64": "gASVMwAAAAAAAAB9lCiMBG5hbWWUjAZQZXJzb26UjANhZ2WUSxKMBGZ1bmOUjAhfX21haW5fX5RoBJOUdS4="
+}
